@@ -151,8 +151,3 @@ Contributing
 4.	Push the branch
 5.	Create a Pull Request
  
-License
-This project is licensed under the MIT License.
- 
-✅ Now you’ve got a complete production-level README with both workflow + ER diagrams integrated.
-Would you like me to also prepare a application.properties ready-to-use template for the repo (with placeholders for DB + Mail), so users can just copy-paste and configure?
